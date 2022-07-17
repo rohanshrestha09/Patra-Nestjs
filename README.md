@@ -14,7 +14,7 @@ A realtime messaging web app which lets users chat with other users in realtime.
 
 ![image](/client/src/images/login.png)
 
-## Login page
+## Avatar
 
 ![image](/client/src/images/avatar.png)
 
